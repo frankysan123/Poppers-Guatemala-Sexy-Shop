@@ -1105,7 +1105,40 @@ img {
     padding: 0 14px 14px;
   }
 }
+/* Colores de fondo para tarjetas; evita estilos escritos dentro del HTML. */
+.product-card.tone-01 { --product-tone: #3a1f24; }
+.product-card.tone-02 { --product-tone: #293226; }
+.product-card.tone-03 { --product-tone: #222c3c; }
+.product-card.tone-04 { --product-tone: #382b1d; }
+.product-card.tone-05 { --product-tone: #4a2934; }
+.product-card.tone-06 { --product-tone: #294430; }
+.product-card.tone-07 { --product-tone: #42264a; }
+.product-card.tone-08 { --product-tone: #354227; }
+.product-card.tone-09 { --product-tone: #263535; }
+.product-card.tone-10 { --product-tone: #3c2224; }
+.product-card.tone-11 { --product-tone: #33243a; }
+.product-card.tone-12 { --product-tone: #20343b; }
+.product-card.tone-13 { --product-tone: #35283e; }
+.product-card.tone-14 { --product-tone: #214052; }
+.product-card.tone-15 { --product-tone: #3d2729; }
+.product-card.tone-16 { --product-tone: #293449; }
+.product-card.tone-17 { --product-tone: #292f3b; }
+.product-card.tone-18 { --product-tone: #34303d; }
+.product-card.tone-19 { --product-tone: #26363a; }
+.product-card.tone-20 { --product-tone: #1f3138; }
+.product-card.tone-21 { --product-tone: #30333a; }
+.product-card.tone-22 { --product-tone: #3a2635; }
+.product-card.tone-23 { --product-tone: #352221; }
+.product-card.tone-24 { --product-tone: #3a2935; }
+.product-card.tone-25 { --product-tone: #30343c; }
+.product-card.tone-26 { --product-tone: #24383d; }
+.product-card.tone-27 { --product-tone: #263d42; }
+.product-card.tone-28 { --product-tone: #3c2928; }
+.product-card.tone-29 { --product-tone: #382a36; }
+.product-card.tone-30 { --product-tone: #293746; }
+.product-card.tone-31 { --product-tone: #303b31; }
 
-
-
+/* Imagenes de fondo para las tarjetas principales de masaje. */
+.service-art-relajante { --service-art: url("imagenes/masaje5.jpg"); }
+.service-art-premium { --service-art: url("imagenes/masaje6.jpg"); }
 
